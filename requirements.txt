@@ -15,7 +15,7 @@ matplotlib==3.7.3
 more-itertools==8.10.0
 moviepy==1.0.3
 numpy==1.25.2
-oauthlib==3.2.0
+oauthlib==4.0.1
 # if running locally, use opencv-python
 # opencv-python==4.8.0.76
 opencv-python-headless==4.8.0.76
